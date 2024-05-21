@@ -67,16 +67,16 @@ if (cantidad >=1 && cantidad <=4){
 
 //Punto 5 taller
 
-/* alert("Listado de frutas:\n- Manzana\n- Plátano\n- Naranja\n- Fresa\n- Piña");
-let frutaescogida = prompt("Ingresar la fruta que prefieres").toLowerCase();
-let cantidad = prompt("Ingresa la cantidad");
-let valores = {
-    "mango": 1000,
-    "manzana": 1100,
-    "pera": 1200,
-    "melon": 1300,
-    "piña": 1500,
+/* alert("Lista de frutas:\n- Mango\n- Manzana\n- Pera\n- Melon\n- Piña");
+let frutaelegida = prompt("Ingresar la fruta que quieres").toLowerCase();
+let numero = prompt("Ingresa la cantidad");
+let precios = {
+    "Mango": 1000,
+    "Manzana": 1100,
+    "Pera": 1200,
+    "Melon": 1300,
+    "Piña": 1500,
 };
-let valorporunidad = valores[frutaelegida];
-let total = valorporunidad * cantidad;
-alert("Fruta: " + frutaelegida + "\nValor por unidad: $" + parseFloat(valorporunidad) + "\nValor total: $" + parseFloat(total)); */
+let valorporunidad = precios[frutaelegida];
+let total = valorporunidad * numero;
+alert("Frutas: " + frutaelegida + "\nValor por unidad: $" + parseFloat(valorporunidad) + "\nValor total: $" + parseFloat(total)); */
