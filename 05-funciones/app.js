@@ -28,7 +28,7 @@ console.log ( `Resultado es: ${ multiplicar(numero1,numero2) }`) */
 let ingresoMensual = prompt ('Ingrese al valor de lo que gano este mes')
 let descuento = (10/100)
 function calcularAhorro (ing,ahorro){6+
- {{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}   
+   
     return ingresoMensual*descuento
 }
     

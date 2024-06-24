@@ -21,7 +21,7 @@ let promedio = (parseInt (matematica) + parseInt (español) + parseInt (sociales
 
 if (promedio === 10){
     console.log ('Excelente');
-}else if (promedio >7 && promedio <=9){
+}else if (promedio >7 && promedio <=9.9){
     console.log ('Bueno');
 }else if (promedio <7){
     console.log ('Insuficiente')
