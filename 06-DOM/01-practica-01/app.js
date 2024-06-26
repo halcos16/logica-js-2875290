@@ -1,4 +1,4 @@
-/* Ejercicio del boton
+//Ejercicio del boton
 //1.variables
 let miImput = document.getElementById("boton");
 
@@ -9,7 +9,7 @@ function cambiarValue (){
 }
 
 //3. Eventos
-miImput.addEventListener('click', cambiarValue) */
+miImput.addEventListener('click', cambiarValue)
 
 //1.variables
 const cajaColor = document.getElementById('caja');
@@ -68,4 +68,4 @@ let estado = 0;
 function cambiarImagen(){
     pantallaImg.setAttribute('src','imagen2.jpg')
 }
-btnCambiar,addEventListener('click', cambiarImagen)
+btnCambiar.addEventListener('click', cambiarImagen)
